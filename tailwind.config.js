@@ -24,6 +24,10 @@ module.exports = {
         "Rose-50": "hsl(330, 100%, 98%)"
       }
     },
+    fontFamily: {
+      "text": "var(--text-font)",
+      "head": "var(--head-font)"
+    }
   },
   plugins: [],
 };
